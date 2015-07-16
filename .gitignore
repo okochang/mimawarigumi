@@ -18,9 +18,6 @@
 # Ingonre bundled contents.
 /vendor/bundle
 
-# Ignore the database configuration.
-/config/database.yml
-
 # Ignore sass cache
 .sass-cache
 
